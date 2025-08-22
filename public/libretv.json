@@ -24,7 +24,7 @@
         "name": "iKun资源"
     },
     {
-        "api": "https://lbapi9.com/api.php/provide/vod/at/json",
+        "api": "https://lbapi9.com/api.php/provide/vod",
         "name": "乐播资源"
     }
 ]
