@@ -20,15 +20,7 @@
         "name": "豆瓣资源"
     },
     {
-        "api": "https://json.heimuer.xyz/api.php/provide/vod",
-        "name": "黑木耳"
-    },
-    {
         "api": "https://ikunzyapi.com/api.php/provide/vod",
         "name": "iKun资源"
-    },
-    {
-        "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-        "name": "卧龙资源"
     }
 ]
